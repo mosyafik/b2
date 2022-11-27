@@ -290,7 +290,7 @@ global.fla = [
  "https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=",
  "https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text="
 ]
-global.hwaifu = ['https://telegra.ph/file/66821efdee0fda0ccdb85.jpg']
+global.hwaifu = ['https://telegra.ph/file/5a9498bc154ace6592a95.jpg']
 global.hyuri = ['https://telegra.ph/file/66821efdee0fda0ccdb85.jpg']
 global.hLokun = ['https://telegra.ph/file/df1adc0c7cbf695e41bfa.jpg','https://telegra.ph/file/df1adc0c7cbf695e41bfa.jpg', 'https://telegra.ph/file/df1adc0c7cbf695e41bfa.jpg', 'https://telegra.ph/file/df1adc0c7cbf695e41bfa.jpg']
 global.hloli = ['https://telegra.ph/file/df1adc0c7cbf695e41bfa.jpg', 'https://telegra.ph/file/df1adc0c7cbf695e41bfa.jpg','https://telegra.ph/file/df1adc0c7cbf695e41bfa.jpg','https://telegra.ph/file/df1adc0c7cbf695e41bfa.jpg']
@@ -313,7 +313,7 @@ global.thumbdoc = 'https://telegra.ph/file/66821efdee0fda0ccdb85.jpg'
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/66821efdee0fda0ccdb85.jpg'
+global.thumbdoc = 'https://telegra.ph/file/5a9498bc154ace6592a95.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
