@@ -39,8 +39,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285157883553', 'Mosyafik', true],
-['6283830718131', 'SiBear', true]
+['628981574999', 'Mosyafik', true],
+['6289699005480', 'KPB', true]
 ]
 global.mods = []
 global.prems = []
